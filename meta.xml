@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>TCPGecko 4 Mii</name>
+  <coder>Various</coder>
+  <version>1.0</version>
+  <url>.</url>
+  <release_date>20240104000000</release_date>
+  <short_description>TCPGecko with Mii Maker support.</short_description>
+  <long_description>Have fun making some abominations <3
+  </long_description>
+  <category>tool</category>
+</app>
